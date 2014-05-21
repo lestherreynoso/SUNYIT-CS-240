@@ -23,7 +23,7 @@ int main(void)
   for (i=0; i<23; i++)
   	hasharray[i]="??";
 
- 	for (n=1; n<16; n++)
+  for (n=1; n<16; n++)
   { cout<<"Enter word "<<n<<":"<<endl;
     cin>>word;
     first_letter=word[0];
